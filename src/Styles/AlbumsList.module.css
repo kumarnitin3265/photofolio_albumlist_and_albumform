@@ -1,0 +1,37 @@
+.home{
+    height: 100%;
+    /* width: 100%; */
+    margin-left: 230px;
+    margin-right: 230px;
+    /* background-color: rgb(236, 247, 219); */
+    margin-top: 30px;
+}
+
+.album{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    align-content: space-between;
+
+}
+span{
+    font-size: 30px;
+    font-weight: 700;
+    margin-right: 753px;
+}
+
+
+
+.addAlbum{
+    height: 32px;
+    width: 100px;
+    border: 2px solid #07f;
+    border-radius: 5px;
+    color: #07f;
+    cursor: pointer;
+    font-weight: 700;
+    font-family: "Poppins", sans-serif;
+    padding: 5px 10px;
+    background-color: rgba(0,119,255,.1);
+    /* padding-bottom: 5px; */
+}
